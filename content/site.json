@@ -1,0 +1,115 @@
+{
+  "site": {
+    "name": "Commercial Motorhomes",
+    "legalName": "Australian Motor Homes Pty Ltd",
+    "tagline": "Your Home on the Open Road",
+    "heroIntro": "Premium used motorhomes, chosen for comfort and the long road ahead.",
+    "email": "inquire.chrispaytn@gmail.com",
+    "url": "https://moonhus.github.io/motorhome",
+    "taxId": "96 938 138 282",
+    "address": {
+      "streetAddress": "817 North East Road",
+      "addressLocality": "Valley View",
+      "addressRegion": "SA",
+      "postalCode": "5093",
+      "addressCountry": "AU"
+    },
+    "areaServed": [
+      "Brisbane",
+      "Queensland",
+      "South Australia",
+      "Australia"
+    ]
+  },
+  "stats": [
+    "Est. 2005",
+    "5,500+ customers",
+    "4.9 on Google"
+  ],
+  "brands": [
+    {
+      "name": "Avida",
+      "subtitle": "Motorhomes"
+    },
+    {
+      "name": "Sunliner",
+      "subtitle": "Motorhomes"
+    },
+    {
+      "name": "Avan",
+      "subtitle": "Ovation"
+    },
+    {
+      "name": "KEA",
+      "subtitle": "Motorhomes"
+    }
+  ],
+  "about": {
+    "eyebrow": "Est. 2005",
+    "title": "About Commercial Motorhomes",
+    "paragraphs": [
+      "We have been helping people into motorhomes since 2005. Browse current stock, read the kilometres, then send a short enquiry.",
+      "Australian Motor Homes Pty Ltd lists late-model Avida, Sunliner, Avan and KEA motorhomes. Most layouts drive on a car licence. If Light Rigid is needed, the listing says so.",
+      "Yard: 817 North East Road, Valley View SA 5093. We work with Brisbane buyers every week."
+    ],
+    "whyChooseUsTitle": "Why Choose Us?",
+    "whyChooseUsBody": "Every motorhome we sell is professionally detailed, thoroughly inspected and serviced, then stored securely indoors to protect it from the elements. We maintain every vehicle to a high mechanical and cosmetic standard, so it is clean, road-ready and prepared for a smooth, hassle-free handover."
+  },
+  "contact": {
+    "eyebrow": "Enquire",
+    "title": "Email us today. We will be in touch shortly.",
+    "intro": "Brisbane based, South Australia yard. Hold a car licence? Send your name, email, mobile and a message - that is all we need to start.",
+    "formTitle": "Enquire about a motorhome",
+    "formIntro": "Hold a car licence? Email us today. Name, email and mobile are required - add a message with anything else you want us to know.",
+    "mapEmbedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=138.45%2C-35.05%2C138.75%2C-34.80&layer=mapnik"
+  },
+  "homeFaqs": [
+    {
+      "question": "Where can I buy a used motorhome in Brisbane?",
+      "answer": "Commercial Motorhomes is Brisbane based. Stock sits at our South Australia yard and we offer free delivery to Brisbane. Browse price and kilometres on every listing, then email us today - we will be in touch shortly."
+    },
+    {
+      "question": "Is delivery to Brisbane really free?",
+      "answer": "Yes. Used motorhomes for sale here include free delivery to Brisbane, plus a 12-month warranty. Drive-away prices are in AUD as listed."
+    },
+    {
+      "question": "Do I need more than a car licence?",
+      "answer": "Most motorhomes we list are car licence (under 4.5 t GVM). If a motorhome needs Light Rigid or Medium Rigid, the listing says so clearly. If you hold a standard car licence, email us today and we will point you to the right motorhome."
+    },
+    {
+      "question": "What is included when I enquire?",
+      "answer": "Send your name, email, mobile and a message with any extra details. We confirm the motorhome, kilometres, free Brisbane delivery and the 12-month warranty, then we are in touch shortly."
+    }
+  ],
+  "listingFaqTemplate": [
+    {
+      "question": "Can I inspect the motorhome?",
+      "answer": "Yes. Inspections are by appointment at our South Australia yard."
+    },
+    {
+      "question": "Can I organise a test drive?",
+      "answer": "Yes. Mention it on your enquiry and we will book a test drive with the inspection."
+    },
+    {
+      "question": "Do you accept trade-ins?",
+      "answer": "Yes. Tell us what you have when you enquire and we will look at it."
+    },
+    {
+      "question": "What licence do I need?",
+      "answerCar": "A standard Australian car licence is enough. This motorhome is {gvmKg:,} kg GVM.",
+      "answerOther": "This motorhome is {gvmKg:,} kg GVM, so it needs a {licence} licence."
+    },
+    {
+      "question": "Can you help with finance?",
+      "answer": "Yes. Ask on your enquiry and we will point you to finance options."
+    },
+    {
+      "question": "Where is the motorhome located?",
+      "answer": "Stock sits at our South Australia yard. We work with Brisbane buyers every week."
+    },
+    {
+      "question": "How do I make an enquiry?",
+      "answer": "Use the form on this page with your name, email and mobile. We will be in touch shortly."
+    }
+  ]
+}
